@@ -1,0 +1,28 @@
+{
+  "name": "smallcloud-frontend",
+  "version": "0.0.1",
+  "homepage": "https://github.com/abiliodk/smallcloud",
+  "authors": [
+    "Andreas Abilio <andreas@abilio.dk>"
+  ],
+  "description": "Frontend for SmallCloud core",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.9.7",
+    "angular-ui-router": "~0.2.15",
+    "angular-material-icons": "~0.4.0",
+    "jquery": "~2.1.4",
+    "angular-translate": "~2.7.2",
+    "materialize": "~0.96.1"
+  },
+  "resolutions": {
+    "angular": "1.4.0"
+  }
+}
