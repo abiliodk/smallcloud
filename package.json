@@ -1,0 +1,27 @@
+{
+  "name": "smallcloud",
+  "version": "0.0.1",
+  "description": "SmallCloud personal cloud plattform",
+  "main": "cloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abiliodk/smallcloud.git"
+  },
+  "author": "Andreas Abilio (andreas@abilio.dk)",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/abiliodk/smallcloud/issues"
+  },
+  "homepage": "https://github.com/abiliodk/smallcloud",
+  "dependencies": {
+    "async": "^1.2.1",
+    "express": "^4.12.4",
+    "passport": "^0.2.2",
+    "socket.io": "^1.3.5",
+    "waterline": "^0.10.23",
+    "webtorrent": "^0.48.5"
+  }
+}
